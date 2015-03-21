@@ -26,17 +26,27 @@
 							<h3 class="panel-title">Journal</h3>
 						</div>
 						<div class="panel-body">
-							
+							mes pages préféré et autres
+							mes pages préféré et autres
+							mes pages préféré et autres
+							mes pages préféré et autres
+							mes pages préféré et autres
+							mes pages préféré et autres
 						</div>
 					</div>
 				</aside>
 				<aside class="col-xs-3">
 					<div class="panel panel-default">
 						<div class="panel-heading">
-							<h3 class="panel-title">pages</h3>
+							<h3 class="panel-title">page préféré</h3>
 						</div>
 						<div class="panel-body">
-							
+							mes pages préféré et autres
+							mes pages préféré et autres
+							mes pages préféré et autres
+							mes pages préféré et autres
+							mes pages préféré et autres
+							mes pages préféré et autres
 						</div>
 					</div>
 				</aside>
@@ -46,7 +56,12 @@
 							<h3 class="panel-title">Marché de disque</h3>
 						</div>
 						<div class="panel-body">
-							
+							mes pages préféré et autres
+							mes pages préféré et autres
+							mes pages préféré et autres
+							mes pages préféré et autres
+							mes pages préféré et autres
+							mes pages préféré et autres
 						</div>
 					</div>
 				</aside>
@@ -57,7 +72,12 @@
 							<h3 class="panel-title">Buz</h3>
 						</div>
 						<div class="panel-body">
-							
+							mes pages 
+							mes pages 
+							mes pages 
+							mes pages 
+							mes pages 
+							mes pages 
 						</div>
 					</div>
 				</aside>
@@ -77,7 +97,22 @@
 							<h3 class="panel-title">Titre du même artiste</h3>
 						</div>
 						<div class="panel-body">
-							
+							<div>
+								<h3><a href="#">titre 1</a></h3>
+								un titre sorti le 
+							</div>
+							<div>
+								<h3><a href="#">titre 2</a></h3>
+								un titre sorti le 
+							</div>
+							<div>
+								<h3><a href="#">titre 3</a></h3>
+								un titre sorti le 
+							</div>
+							<div>
+								<h3><a href="#">titre 4</a></h3>
+								un titre sorti le 
+							</div>
 
 						</div>
 					</div>
