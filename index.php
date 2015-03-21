@@ -14,7 +14,130 @@
 	</head>
 	<body>	
 		<div class="container">
-			
+			<header class="row col-sm-12">
+				<div class="page-header">
+					<h1>Luchi music<img src="images/luchimusic.png" class="pull-left"></h1>
+				</div>
+			</header>
+			<section class="row">
+				<aside class="col-xs-3">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">Journal</h3>
+						</div>
+						<div class="panel-body">
+							
+						</div>
+					</div>
+				</aside>
+				<aside class="col-xs-3">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">pages</h3>
+						</div>
+						<div class="panel-body">
+							
+						</div>
+					</div>
+				</aside>
+				<aside class="col-sm-3">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">Marché de disque</h3>
+						</div>
+						<div class="panel-body">
+							
+						</div>
+					</div>
+				</aside>
+
+				<aside class="col-sm-3">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">Buz</h3>
+						</div>
+						<div class="panel-body">
+							
+						</div>
+					</div>
+				</aside>
+		    </section>
+
+		    <section class="row">
+
+ 				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h3 class="panel-title">Des Videos et des mp3 adapter a vos besoin</h3>
+					</div>
+
+					<div class="panel-body">
+									    	<aside class="col-sm-3">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">Titre du même artiste</h3>
+						</div>
+						<div class="panel-body">
+							
+
+						</div>
+					</div>
+				</aside>
+
+				
+				<aside class="col-sm-6">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">Mon luchi player</h3>
+						</div>
+						<div class="panel-body">
+							<div class="row">  
+									<div class="col-sm-6">
+										<a class="btn btn-default" href="#">Télécharger l'intégralité</a>
+									</div>
+									<div class="col-sm-6">
+										<span class="btn btn-default pull-right" >25000 Vues</span>
+									</div>
+							</div>
+							<video controls poster="images/luchimusic.png" width="500">
+								<source src="videos/1.mp4" />
+								<source src="videos/1.webm" />
+								<source src="videos/1.ogv" />
+							</video>
+
+							<div class="row">  
+									<div class="col-sm-4">
+										<a class="btn btn-default" href="#">Aimer</a>
+									</div>
+									<div class="col-sm-4">
+										<a class="btn btn-default" href="#">Partager</a>
+									</div>
+									<div class="col-sm-4">
+										<a class="btn btn-default" href="#">Dedicacer a:</a>
+									</div>
+							</div>
+						</div>
+					</div>
+				</aside>
+
+
+				<aside class="col-sm-3">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">Sugestion musique</h3>
+						</div>
+						<div class="panel-body">
+							
+
+						</div>
+					</div>
+				</aside>	
+		    </section>
+
+			<footer class="row col-sm-12">
+				<div class="panel panel-body">
+					
+				</div>
+			</footer>
 		</div>
 	</body>
 	<script src="js/jquery.js"></script>
