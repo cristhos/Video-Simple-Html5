@@ -170,7 +170,7 @@
 
 			<footer class="row col-sm-12">
 				<div class="panel panel-body">
-					
+					<h1>Opening for your</h1>
 				</div>
 			</footer>
 		</div>
